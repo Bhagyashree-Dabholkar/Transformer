@@ -1,0 +1,10 @@
+# Python virtual environment
+venv/
+__pycache__/
+*.pyc
+
+# Editor settings
+.vscode/
+
+# MacOS
+.DS_Store
