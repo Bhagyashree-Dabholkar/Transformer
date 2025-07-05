@@ -1,0 +1,82 @@
+{
+  "employees": [
+    {
+      "name": "Bhagyashree",
+      "age": 33,
+      "phoneNumber": "9876543210",
+      "department": "IT"
+    },
+    {
+      "name": "Ameya",
+      "age": 35,
+      "phoneNumber": "9123456780",
+      "department": "Finance"
+    },
+    {
+      "name": "Kiran",
+      "age": 29,
+      "phoneNumber": "9988776655",
+      "department": "HR"
+    },
+    {
+      "name": "Sneha",
+      "age": 31,
+      "phoneNumber": "9000012345",
+      "department": "Marketing"
+    },
+    {
+      "name": "Rohan",
+      "age": 40,
+      "phoneNumber": "8800554433",
+      "department": "Operations"
+    },
+    {
+      "name": "Neha",
+      "age": 28,
+      "phoneNumber": "9898989898",
+      "department": "IT"
+    },
+    {
+      "name": "Vikram",
+      "age": 45,
+      "phoneNumber": "9876501234",
+      "department": "Management"
+    },
+    {
+      "name": "Divya",
+      "age": 30,
+      "phoneNumber": "9123009876",
+      "department": "Finance"
+    },
+    {
+      "name": "Amit",
+      "age": 32,
+      "phoneNumber": "9000099999",
+      "department": "IT"
+    },
+    {
+      "name": "Kiran",
+      "age": 29,
+      "phoneNumber": "9988776655",
+      "department": "HR"
+    },
+    {
+      "name": "Sneha",
+      "age": 31,
+      "phoneNumber": "9000012345",
+      "department": "Marketing"
+    },
+    {
+      "name": "Rohan",
+      "age": 40,
+      "phoneNumber": "8800554433",
+      "department": "Operations"
+    },
+    {
+      "name": "Bhagyashree",
+      "age": 33,
+      "phoneNumber": "9876543210",
+      "department": "IT"
+    }
+  ]
+}
