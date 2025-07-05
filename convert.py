@@ -1,4 +1,8 @@
-import sys, json, yaml, argparse
+# MIT License
+# Copyright (c) 2025 Your Name
+# See LICENSE file for details.
+
+import json, yaml, argparse
 from pathlib import Path
 
 def load_file(path: Path):
